@@ -1,2 +1,2 @@
 # Sampling
-![Image of Setup](Pics\Inverse Transform Sampling.png)
+![Image of Setup](Pics\Inverse_Transform_Sampling.png)
